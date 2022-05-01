@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/unified-website/static/css/main.af504cf1.css",
-    "main.js": "/unified-website/static/js/main.918f09dc.js",
-    "static/js/787.59021fe7.chunk.js": "/unified-website/static/js/787.59021fe7.chunk.js",
-    "static/media/profile-page.png": "/unified-website/static/media/profile-page.a40b42ddb9b380fbc161.png",
-    "static/media/more-details.png": "/unified-website/static/media/more-details.e279097d232115c3a534.png",
-    "static/media/phone-screen.png": "/unified-website/static/media/phone-screen.563c12c3e9de7447d93e.png",
-    "static/media/the-chat.png": "/unified-website/static/media/the-chat.6269b6b32f7d36171954.png",
-    "static/media/natasha.png": "/unified-website/static/media/natasha.b1ec2fe8c45f210b9b2b.png",
-    "static/media/teneika.png": "/unified-website/static/media/teneika.88c5f195703dda73d763.png",
-    "static/media/nate.png": "/unified-website/static/media/nate.bb4f3f560f6d4590eaf1.png",
-    "static/media/temi.png": "/unified-website/static/media/temi.88641b281505bb4b1989.png",
-    "static/media/sam.png": "/unified-website/static/media/sam.a8a3aaca0ac4af3afb73.png",
-    "index.html": "/unified-website/index.html",
-    "main.af504cf1.css.map": "/unified-website/static/css/main.af504cf1.css.map",
-    "main.918f09dc.js.map": "/unified-website/static/js/main.918f09dc.js.map",
-    "787.59021fe7.chunk.js.map": "/unified-website/static/js/787.59021fe7.chunk.js.map"
+    "main.css": "/static/css/main.af504cf1.css",
+    "main.js": "/static/js/main.1f017769.js",
+    "static/js/787.59021fe7.chunk.js": "/static/js/787.59021fe7.chunk.js",
+    "static/media/profile-page.png": "/static/media/profile-page.a40b42ddb9b380fbc161.png",
+    "static/media/more-details.png": "/static/media/more-details.e279097d232115c3a534.png",
+    "static/media/phone-screen.png": "/static/media/phone-screen.563c12c3e9de7447d93e.png",
+    "static/media/the-chat.png": "/static/media/the-chat.6269b6b32f7d36171954.png",
+    "static/media/natasha.png": "/static/media/natasha.b1ec2fe8c45f210b9b2b.png",
+    "static/media/teneika.png": "/static/media/teneika.88c5f195703dda73d763.png",
+    "static/media/nate.png": "/static/media/nate.bb4f3f560f6d4590eaf1.png",
+    "static/media/temi.png": "/static/media/temi.88641b281505bb4b1989.png",
+    "static/media/sam.png": "/static/media/sam.a8a3aaca0ac4af3afb73.png",
+    "index.html": "/index.html",
+    "main.af504cf1.css.map": "/static/css/main.af504cf1.css.map",
+    "main.1f017769.js.map": "/static/js/main.1f017769.js.map",
+    "787.59021fe7.chunk.js.map": "/static/js/787.59021fe7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af504cf1.css",
-    "static/js/main.918f09dc.js"
+    "static/js/main.1f017769.js"
   ]
 }
